@@ -24,24 +24,34 @@ Let's put a version control demo into action!:
 3) Edit this README document, sign your name at the bottom!
   (pic of where to click for edit and where to put your name)
   
-4) Commit changes with short summary of your change (in this case, topic can be "added name Rosay2109"). 
-Normally, you then do: git pull (always pull when you're editing previous code), git push. In this case, editing on GitHub you don't need to.
+4) Commit your change  
+    + From a git-aware terminal:
+      + Create a branch on the local ('downstream') side.  
+        ```checkout -b <my-branch-name>```  
+      + Track changes for the read-me page  
+        ```git add README.md```  
+      + Commit your changes to the page  
+        ```git commit```  
+      + Create a useful commit message. First line is title (<54 chars), rest is body (<79 chars / line).  
+        ```EDITOR=nano git commit --amend```
+      + Send your changes upstream  
+        ```git push --set-upstream origin <my-branch-name>```  
+    + On GitHub:
+      + Refresh browser
+      + Select your branch
+      + Submit a pull request with a helpful commit message (<79 chars per line)  
   (pic of where to click for each of these)
 
-5) Create a Pull Request. You will be redirect directly to the Pull Request form, where you give the information of the changes to the code.
-(Pic of where to do this)
+Yay you're done!
 
----
-
-Swung site link for support:
-
+If you want, drop a line to the community--we're here to encourage!
 [Software Underground Community Link](https://softwareunderground.org/slack)
 
 ---
 
 
-Add your name here, and check out after, how you are now part of the [contributors](https://github.com/softwareunderground/getting-started/graphs/contributors).
+Add your name here, and check out after, you are now part of the [contributors](https://github.com/softwareunderground/getting-started/graphs/contributors).
 
 ---
 
-Chance Sanger | Jesper Dramsch
+Chance Sanger | Jesper Dramsch | Will Sanger
