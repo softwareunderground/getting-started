@@ -24,9 +24,14 @@ Let's put a version control demo into action!:
 3) Edit this README document, sign your name at the bottom!
   (pic of where to click for edit and where to put your name)
   
-4) Commit changes with short summary of your change (in this case, change can be "added name Rosay2109") git pull (always pull when you're    editing previous code), git push
+4) Commit changes with short summary of your change (in this case, topic can be "added name Rosay2109"). 
+Normally, you then do: git pull (always pull when you're editing previous code), git push. In this case, editing on GitHub you don't need to.
   (pic of where to click for each of these)
-   
+
+5) Create a Pull Request. You will be redirect directly to the Pull Request form, where you give the information of the changes to the code.
+(Pic of where to do this)
+
+---
 
 Swung site link for support:
 
