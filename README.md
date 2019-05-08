@@ -9,7 +9,7 @@ For more in depth documentation, here are some git and github tutorials:
 
 ---
 
-[Add Links]
+[Github Guides](https://guides.github.com/activities/hello-world/) - [From VSCode](https://github.blog/2019-01-07-create-pull-requests-in-vscode/)
 
 ---
 
@@ -35,8 +35,8 @@ Swung site link for support:
 ---
 
 
-Add your name here
+Add your name here, and check out after, how you are now part of the [contributors](https://github.com/softwareunderground/getting-started/graphs/contributors).
 
 ---
 
-Chance Sanger
+Chance Sanger | Jesper Dramsch
