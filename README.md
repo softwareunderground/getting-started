@@ -1,8 +1,19 @@
 # getting-started
-How to get started with Open Source contributions
 
-For more in depth documentation, here are some git and github tutorials
 
+<img align="right" src="https://avatars2.githubusercontent.com/u/8144157?s=200&v=4">
+
+### In this repo, we explain how to get started with Open Source contributions and be a part of the Software Underground!
+
+For more in depth documentation, here are some git and github tutorials:
+
+---
+
+[Add Links]
+
+---
+
+###
 Let's put a version control demo into action!:
 1) fork this repository
   (insert pic pointing to fork, say username should look like name/getting-started)
