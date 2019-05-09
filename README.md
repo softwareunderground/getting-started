@@ -15,40 +15,40 @@ For more in depth documentation, here are some git and github tutorials:
 
 ###
 Let's put a version control demo into action!:
-1) fork this repository
+1) fork this repository  
   (insert pic pointing to fork, say username should look like name/getting-started)
 
-2) clone fork to local machine
+2) clone your fork to local machine
+  + Option 1: From terminal with [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed:    
+    ```git clone https://github.com/softwareunderground/getting-started```
+  + Option 2: From code editor such as [Visual Studio Code](https://code.visualstudio.com/)  
   (insert pic pointing to clone or download, if you have a code editing software copy https and clone in code editor's environment)
 
-3) Edit this README document, sign your name at the bottom!
+3) edit this README document, sign your name at the bottom!  
   (pic of where to click for edit and where to put your name)
   
-4) Commit your change  
-    + From a git-aware terminal:
-      + Create a branch on the local ('downstream') side.  
+4) commit the change to your fork
+    + Option 1: From a git-aware terminal:
+      + Checkout a new branch where you can track your changes  
         ```checkout -b <my-branch-name>```  
-      + Track changes for the read-me page  
+      + Add the file you want to track    
         ```git add README.md```  
-      + Commit your changes to the page  
-        ```git commit```  
-      + Create a useful commit message. First line is title (<54 chars), rest is body (<79 chars / line).  
-        ```EDITOR=nano git commit --amend```
-      + Send your changes upstream  
+      + Commit your changes to the page. Include a useful commit message. First line is title (<54 chars), rest is body (<79 chars / line)  
+        ```EDITOR=nano git commit```  
+      + Push your changes upstream   
         ```git push --set-upstream origin <my-branch-name>```  
-    + On GitHub:
-      + Refresh browser
-      + Select your branch
-      + Submit a pull request with a helpful commit message (<79 chars per line)  
+    + Option 2: From a code editor:  
+      (to be added)
+
+5) submit your pull request  
   (pic of where to click for each of these)
 
-Yay you're done!
+You're done!
 
 If you want, drop a line to the community--we're here to encourage!
 [Software Underground Community Link](https://softwareunderground.org/slack)
 
 ---
-
 
 Add your name here, and check out after, you are now part of the [contributors](https://github.com/softwareunderground/getting-started/graphs/contributors).
 
