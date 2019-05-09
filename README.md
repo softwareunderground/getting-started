@@ -40,7 +40,7 @@ Let's put a version control demo into action!:
     + Option 2: From a code editor:  
       (to be added)
 
-5) submit your pull request  
+5) submit your pull request through the github website
   (pic of where to click for each of these)
 
 You're done!
