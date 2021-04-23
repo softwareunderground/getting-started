@@ -53,4 +53,4 @@ Add your name here, and check out after, you are now part of the [contributors](
 
 ---
 
-Chance Sanger | Jesper Dramsch | Will Sanger
+Chance Sanger | Jesper Dramsch | Will Sanger | Stephen Donovan
