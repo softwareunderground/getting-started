@@ -16,8 +16,7 @@ For more in depth documentation, here are some git and github tutorials:
 ###
 Let's put a version control demo into action!:
 1) fork this repository  
-  (insert pic pointing to fork, say username should look like name/getting-started)
-
+![image](https://user-images.githubusercontent.com/29112505/115902885-c74f5400-a417-11eb-991b-9d3f3c560e09.png)
 2) clone your fork to local machine
   + Option 1: From terminal with [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed:    
     ```git clone https://github.com/softwareunderground/getting-started```
